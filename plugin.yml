@@ -1,5 +1,5 @@
 name: Texter
-prefix: Texter
+prefix: FloatingText
 main: jp\mcbe\fuyutsuki\Texter\Main
 version: 4.2.4
 api: 5.3.0
